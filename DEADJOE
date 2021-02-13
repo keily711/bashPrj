@@ -1,0 +1,29 @@
+
+*** These modified files were found in JOE when it aborted on Sat Feb 13 23:08:01 2021
+*** JOE was aborted by UNIX signal 1
+
+*** File '(Unnamed)'
+/root/bashPrj/.git/COMMIT_EDITMSG
+
+*** File '/root/bashPrj/.git/COMMIT_EDITMSG'
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	new file:   MarkeiliaCassisHW9.png
+#	new file:   a.out
+#	new file:   get_opts.c
+#
+# Untracked files:
+#	Example-of-Getopt.html
+#	Example-of-Getopt.html.1
+#
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
